@@ -1,0 +1,16 @@
+{
+	"name": "archive-today-proxy",
+	"title": "archive-today-proxy",
+	"id": "jid1-Uwt2UJGdaHhlwA",
+	"description": "Redirects requests to some domains through archive.today",
+	"author": "",
+	"license": "MPL 2.0",
+	"version": "0.1",
+	"preferences": [{
+		"name": "proxiedDomains",
+		"title": "Domains to proxy",
+		"descriptions": "List of domains to proxy (separated by commas)",
+		"type": "string",
+		"value": ""
+	}]
+}
